@@ -3,50 +3,50 @@ Proyecto de MJBE Bikes ventas de bicicletas
 
 Titulo del proyecto
 
-Sistema de información para el
-control de ventas e inventario
-de repuestos y accesorios para
-bicicletas
+    Sistema de información para el
+    control de ventas e inventario
+    de repuestos y accesorios para
+    bicicletas
 
 Integrantes
 
-Eduard Andrés Beltrán Pérez,
-Jhair Julián Sarmiento Ramos,
-Brayan Yesid Díaz Monroy y 
-Manuel Felipe Orduz Pérez
+    Eduard Andrés Beltrán Pérez,
+    Jhair Julián Sarmiento Ramos,
+    Brayan Yesid Díaz Monroy y 
+    Manuel Felipe Orduz Pérez
 
 Planteamiento del Problema
 
-Bogotá se ha visto envuelta en una fiebre por el ciclismo, donde la gente ha
-comenzado a usar sus bicicletas para transportarse hacia sus trabajos y como
-distracción después de una semana ajetreada. Todas estas actividades hacen
-que sus vehículos vayan desgastándose o en algunos casos, por simple
-apariencia buscan una manera de que se vea más llamativa, aunque sin un
-sitio seguro para comprar, reparar y personalizar sus bicicletas.
+    Bogotá se ha visto envuelta en una fiebre por el ciclismo, donde la gente ha
+    comenzado a usar sus bicicletas para transportarse hacia sus trabajos y como
+    distracción después de una semana ajetreada. Todas estas actividades hacen
+    que sus vehículos vayan desgastándose o en algunos casos, por simple
+    apariencia buscan una manera de que se vea más llamativa, aunque sin un
+    sitio seguro para comprar, reparar y personalizar sus bicicletas.
 
-Es por esa razón que decidimos desarrollar y administrar un aplicativo web
-el cual nos permita realizar todas las funciones para el mantenimiento de
-las ciclas, así como disponer de los elementos necesarios para su cuidado.
-Siendo esto una gran solución para los usuarios de este vehículo ya que
-una página donde puedan realizar todos estos procesos.
+    Es por esa razón que decidimos desarrollar y administrar un aplicativo web
+    el cual nos permita realizar todas las funciones para el mantenimiento de
+    las ciclas, así como disponer de los elementos necesarios para su cuidado.
+    Siendo esto una gran solución para los usuarios de este vehículo ya que
+    una página donde puedan realizar todos estos procesos.
 
 Justificación
 
-El proyecto busca ofrecer a los ciclistas de Bogotá una plataforma web
-innovadora que centralice mantenimiento, reparación y personalización
-de bicicletas, brindando seguridad, eficiencia y acceso a servicios
-especializados en un solo lugar.
+    El proyecto busca ofrecer a los ciclistas de Bogotá una plataforma web
+    innovadora que centralice mantenimiento, reparación y personalización
+    de bicicletas, brindando seguridad, eficiencia y acceso a servicios
+    especializados en un solo lugar.
 
 Pregunta del proyecto
 
-¿Cómo puede un aplicativo web ayudar alos ciclistas de Bogotá a
-mantener, reparar ypersonalizar sus bicicletas de forma segura y
-eficiente?
+    ¿Cómo puede un aplicativo web ayudar alos ciclistas de Bogotá a
+    mantener, reparar ypersonalizar sus bicicletas de forma segura y
+    eficiente?
 
 Objetivo General
 
-Desarrollar un sistema de inventario y ventas para accesorios de bicicletas que optimice el control de productos, acelere las
-ventas y facilite la administración del negocio.
+    Desarrollar un sistema de inventario y ventas para accesorios de bicicletas que optimice el control de productos, acelere las
+    ventas y facilite la administración del negocio.
 
 Objetivos Específicos
 
